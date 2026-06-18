@@ -6,9 +6,10 @@ Each script lives in its own folder with a dedicated README. Open the script's `
 
 ## Scripts
 
-| Script                              | Description                                                                                                      | Sites       |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- |
-| [YouTube Macros](./youtube-macros/) | Step playback speed, hide chrome for clean fullscreen, and download the current frame (key + control-bar button) | youtube.com |
+| Script                                                           | Description                                                                                                      | Sites       |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- |
+| [YouTube Macros](./youtube-macros/)                              | Step playback speed, hide chrome for clean fullscreen, and download the current frame (key + control-bar button) | youtube.com |
+| [World Gym Guest Form Autofill](./worldgym-guest-form-autofill/) | Auto-fills the World Gym Quebec guest registration form                                                          | ggpx.info   |
 
 ## License
 
