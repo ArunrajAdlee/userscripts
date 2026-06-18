@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Node (in case any script gets a build step later)
+node_modules/
+npm-debug.log*
