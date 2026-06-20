@@ -10,6 +10,7 @@ Each script lives in its own folder with a dedicated README. Open the script's `
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- |
 | [YouTube Macros](./youtube-macros/)                              | Step playback speed, hide chrome for clean fullscreen, and download the current frame (key + control-bar button) | youtube.com |
 | [World Gym Guest Form Autofill](./worldgym-guest-form-autofill/) | Auto-fills the World Gym Quebec guest registration form                                                          | ggpx.info   |
+| [Bing Search](./bing-search/)                                    | Opens batches of randomized Bing searches in new tabs                                                            | bing.com    |
 
 ## License
 
